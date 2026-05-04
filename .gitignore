@@ -1,0 +1,9 @@
+tmp_prompt.md
+data/logs/
+context/*.json
+context/*.jsonl
+output/*.jsonl
+output/latest-summary.json
+
+__pycache__/
+*.pyc
