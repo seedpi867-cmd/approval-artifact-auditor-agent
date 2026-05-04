@@ -1,6 +1,6 @@
 # Stale Approvals
 
-Ledger head: `d11a1bacf1d46c493a4ec065b23600c256319f3ee87f7baaa8a74147fa433051`
+Ledger head: `70d11dffe6fda0dfcbad3157ef6165de0bb4c0f25c870d073065fb84b5b33ac7`
 
 ## approval-expired-002 - revoke_now
 - Actor: `ops-agent`
